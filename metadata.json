@@ -1,0 +1,7 @@
+{
+  "name": "Copy of pasion-libre - Foro de Anuncios Adultos",
+  "description": "Tu portal real de anuncios y encuentros para mayores de 18 años. Seguro, directo y apasionado.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
